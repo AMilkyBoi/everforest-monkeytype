@@ -12,10 +12,10 @@
     /* override theme colors */
     * {
         --bg-color: #2b3339;
-        --main-color: #83c092;
+        --main-color: #a7c080;
         --caret-color: #4b565c;
         --sub-color: #dbbc7f;
-        --sub-alt-color: #a7c080;
+        --sub-alt-color: #7fbbb3;
         --text-color: #E9F0F3;
         --error-color: #e67e80;
         --error-extra-color: #d699b6;
