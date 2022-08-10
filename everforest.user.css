@@ -12,21 +12,21 @@
     /* override theme colors */
     /* also theme link: https://monkeytype.com?customTheme=WyIjMGIxZTFhIiwiIzc0YjRhZSIsIiM3NGI0YWUiLCIjM2Q3MTY3IiwiIzA0MTcxNSIsIiNlOWYwZjMiLCIjYmY2MTZhIiwiIzc5M2U0NCIsIiNiZjYxNmEiLCIjNzkzZTQ0Il0= */
     * {
-        --bg-color: #0b1e1a;
-        --main-color: #74b4ae;
-        --caret-color: #74b4ae;
-        --sub-color: #3d7167;
-        --sub-alt-color: #0f242280;
+        --bg-color: #2b3339;
+        --main-color: #4b565c;
+        --caret-color: #a7c080;
+        --sub-color: #7fbbb3;
+        --sub-alt-color: #83c092;
         --text-color: #E9F0F3;
-        --error-color: #bf616a;
-        --error-extra-color: #793e44;
-        --colorful-error-color: #bf616a;
-        --colorful-error-extra-color: #793e44;
+        --error-color: #e67e80;
+        --error-extra-color: #d699b6;
+        --colorful-error-color: #e67e80;       /* same as error-extra-color */
+        --colorful-error-extra-color: #d699b6; /* same as error-color */
     }
 
     /* background and effects */
     .customBackground {
-        background-image: url("https://wallpaperaccess.com/full/3703256.jpg") !important;
+        background-image: url("https://wallpaper.dog/large/11038101.jpg") !important;
         background-size: cover;
         background-position: center !important;
         background-repeat: no-repeat;
@@ -53,7 +53,7 @@
     }
 
     #top .logo .text:after {
-        content: 'botanical' !important;
+        content: 'everforest' !important;
         visibility: visible;
         display: block;
         position: relative;
