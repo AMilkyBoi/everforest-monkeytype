@@ -1,6 +1,6 @@
-<h1>monkeytype-themes</h1>
+<h1>everforest-monkeytype</h1>
 
-A fork of refact0r's [monkeytype themes](https://github.com/refact0r/monkeytype-themes) made specifically to support sainnhe's [everforest theme](https://github.com/sainnhe/everforest) for [vim](https://github.com/vim/vim).
+A fork of refact0r's [monkeytype themes](https://github.com/refact0r/monkeytype-themes) made specifically to support sainnhe's [everforest theme](https://github.com/sainnhe/everforest) for [vim](https://github.com/vim/vim). The base theme has also been changed to only center the top menu.
 
 <br>
 
