@@ -1,0 +1,18 @@
+/* Colors for the everforest dark hard theme.
+everforest_dark_hard */
+    
+    primary {
+      --background: #2b3339;
+      --foreground: #d3c6aa;
+    }
+
+    normal {
+      --normal-black:   #4b565c;
+      --normal-red:     #e67e80;
+      --normal-green:   #a7c080;
+      --normal-yellow:  #dbbc7f;
+      --normal-blue:    #7fbbb3;
+      --normal-magenta: #d699b6;
+      --normal-cyan:    #83c092;
+      --normal-white:   #d3c6aa;
+    }
