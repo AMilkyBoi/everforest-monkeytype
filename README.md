@@ -1,10 +1,6 @@
 <h1>monkeytype-themes</h1>
 
-Welcome to monkeytype-themes, a list of custom themes I have created for [monkeytype](https://monkeytype.com).
-
-Contact me in the #custom-themes channel of the Monkeytype discord if you need any help (my username is refact0r).
-
-Also please star the [github](https://github.com/refact0r/monkeytype-themes).
+A fork of refact0r's [monkeytype themes](https://github.com/refact0r/monkeytype-themes) made specifically to support sainnhe's [everforest theme](https://github.com/sainnhe/everforest) for [vim](https://github.com/vim/vim).
 
 <br>
 
@@ -54,43 +50,10 @@ Removes command line box background and adds a blur behind it for a cleaner look
 
 These are themes that change the color and feel of Monkeytype. Works best if used with Base theme, don't mix style themes together.
 
-### Iceland
-[Install](https://github.com/refact0r/monkeytype-themes/raw/main/iceland.user.css)
-
-Iceland theme. Colors based off the iceberg dark preset theme. Make sure you have timer/progress style on "bar".
-
-<img width=1000 src="https://user-images.githubusercontent.com/34758569/133005549-34133b1b-ccba-435f-ae1b-c1ae5aa85824.png">
-<br>
-
-### Gruvbox Dark
-[Install](https://github.com/refact0r/monkeytype-themes/raw/main/gruvboxdark.user.css)
-
-Gruvbox dark theme. Same colors as the preset theme gruvbox dark.
-
-<img width=1000 src="https://user-images.githubusercontent.com/34758569/133863325-a108a7a2-84ae-49f1-a555-6830d8b15d41.png">
-<br>
-
 ### Botanical
 [Install](https://github.com/refact0r/monkeytype-themes/raw/main/botanical.user.css)
 
 Botanical theme. Colors based off the terrow below preset theme.
 
 <img width=1000 src="https://user-images.githubusercontent.com/34758569/135358100-33efec78-d2c7-4872-8a4b-f4b383ff1ad0.png">
-<br>
-
-### Nord
-[Install](https://github.com/refact0r/monkeytype-themes/raw/main/nord.user.css)
-
-Nord theme. Colors based off the nord preset theme.
-
-<img width=1000 src="https://user-images.githubusercontent.com/34758569/134452193-18f45789-7a0c-492f-a1bc-4e2ae0de9218.png">
-<br>
-
-### Dracula
-[Install](https://github.com/refact0r/monkeytype-themes/raw/main/dracula.user.css)
-
-Dracula theme. Colors based off the dracula preset theme.
-
-<img width=1000 src="https://user-images.githubusercontent.com/34758569/139508821-c9bd45af-cf76-4aaa-b6d8-f2d0492922ec.png">
-
 <br>
