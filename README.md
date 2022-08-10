@@ -23,7 +23,7 @@ These are themes that change small parts of monkeytype and can be used together.
 ### Base  
 [Install](https://github.com/refact0r/monkeytype-themes/raw/main/base.user.css)
 
-Basic tweaks like hiding the unnecessary bottom buttons, centering the top menu, and changing logo text.
+Centers the top menu.
 
 <img width=1000 src="https://user-images.githubusercontent.com/34758569/138975611-a8d12eee-b541-40fb-be95-53f6b8ef1c07.png">
 <br>
@@ -31,7 +31,7 @@ Basic tweaks like hiding the unnecessary bottom buttons, centering the top menu,
 ### Icons  
 [Install](https://github.com/refact0r/monkeytype-themes/raw/main/icons.user.css)
 
-Replaces the default Font Awesome icons with Bootstrap icons (which look better). Also adds a few animations to the menu buttons and the buttons that show after completing a test.
+Replaces the default Font Awesome icons with Bootstrap icons. Also adds a few animations to the menu buttons and the buttons that show after completing a test.
 
 <img src="https://user-images.githubusercontent.com/34758569/138975699-d8cff2b9-0b1c-4a76-9413-81923d260d54.png">
 <br>
@@ -46,14 +46,12 @@ Removes command line box background and adds a blur behind it for a cleaner look
 
 <br>
 
-## Style Themes
+## Style Theme
 
-These are themes that change the color and feel of Monkeytype. Works best if used with Base theme, don't mix style themes together.
-
-### Botanical
+### Everforest
 [Install](https://github.com/refact0r/monkeytype-themes/raw/main/botanical.user.css)
 
-Botanical theme. Colors based off the terrow below preset theme.
+Everforst theme.
 
 <img width=1000 src="https://user-images.githubusercontent.com/34758569/135358100-33efec78-d2c7-4872-8a4b-f4b383ff1ad0.png">
 <br>
