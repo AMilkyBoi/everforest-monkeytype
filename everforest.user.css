@@ -14,7 +14,7 @@
         --bg-color: #2b3339;
         --main-color: #4b565c;
         --caret-color: #a7c080;
-        --sub-color: #7fbbb3;
+        --sub-color: #dbbc7f;
         --sub-alt-color: #83c092;
         --text-color: #E9F0F3;
         --error-color: #e67e80;
@@ -25,7 +25,7 @@
 
     /* background and effects */
     .customBackground {
-        background-image: url("https://wallpaper.dog/large/11038101.jpg") !important;
+        background-image: url("https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80") !important;
         background-size: cover;
         background-position: center !important;
         background-repeat: no-repeat;
