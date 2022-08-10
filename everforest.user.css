@@ -1,16 +1,15 @@
 /* ==UserStyle==
-@name           monkeytype botanical
+@name           monkeytype everforest
 @namespace      github.com/openstyles/stylus
 @version        1.0.0
-@description    botanical theme for monkeytype
-@author         refact0r
-@homepageURL    https://github.com/refact0r/monkeytype-themes
-@updateURL      https://github.com/refact0r/monkeytype-themes/raw/main/botanical.user.css
+@description    everforest theme for monkeytype
+@author         refact0r, edited by AMilkyBoi
+@homepageURL    https://github.com/AMilkyBoi/everforest-monkeytype
+@updateURL      https://github.com/AMilkyBoi/everforest-monkeytype/raw/main/everforest.user.css
 ==/UserStyle== */
 @-moz-document domain("monkeytype.com") {
 
     /* override theme colors */
-    /* also theme link: https://monkeytype.com?customTheme=WyIjMGIxZTFhIiwiIzc0YjRhZSIsIiM3NGI0YWUiLCIjM2Q3MTY3IiwiIzA0MTcxNSIsIiNlOWYwZjMiLCIjYmY2MTZhIiwiIzc5M2U0NCIsIiNiZjYxNmEiLCIjNzkzZTQ0Il0= */
     * {
         --bg-color: #2b3339;
         --main-color: #4b565c;
