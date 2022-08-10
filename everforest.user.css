@@ -1,0 +1,62 @@
+/* ==UserStyle==
+@name           monkeytype botanical
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    botanical theme for monkeytype
+@author         refact0r
+@homepageURL    https://github.com/refact0r/monkeytype-themes
+@updateURL      https://github.com/refact0r/monkeytype-themes/raw/main/botanical.user.css
+==/UserStyle== */
+@-moz-document domain("monkeytype.com") {
+
+    /* override theme colors */
+    /* also theme link: https://monkeytype.com?customTheme=WyIjMGIxZTFhIiwiIzc0YjRhZSIsIiM3NGI0YWUiLCIjM2Q3MTY3IiwiIzA0MTcxNSIsIiNlOWYwZjMiLCIjYmY2MTZhIiwiIzc5M2U0NCIsIiNiZjYxNmEiLCIjNzkzZTQ0Il0= */
+    * {
+        --bg-color: #0b1e1a;
+        --main-color: #74b4ae;
+        --caret-color: #74b4ae;
+        --sub-color: #3d7167;
+        --sub-alt-color: #0f242280;
+        --text-color: #E9F0F3;
+        --error-color: #bf616a;
+        --error-extra-color: #793e44;
+        --colorful-error-color: #bf616a;
+        --colorful-error-extra-color: #793e44;
+    }
+
+    /* background and effects */
+    .customBackground {
+        background-image: url("https://wallpaperaccess.com/full/3703256.jpg") !important;
+        background-size: cover;
+        background-position: center !important;
+        background-repeat: no-repeat;
+        transition: filter 1s ease !important;
+        filter: brightness(0.7) blur(0px);
+    }
+
+    body[style*="cursor: none"] .customBackground {
+        filter: brightness(0.5) blur(5px);
+    }
+
+    /* change logo text */
+    #top .logo .text {
+        visibility: hidden;
+    }
+
+    #top .logo .text .top:after {
+        content: 'monkeytype' !important;
+        visibility: visible;
+        display: block;
+        position: relative;
+        margin-top: -.7rem;
+        margin-left: -.15rem;
+    }
+
+    #top .logo .text:after {
+        content: 'botanical' !important;
+        visibility: visible;
+        display: block;
+        position: relative;
+        margin-top: -2rem;
+    }
+}
