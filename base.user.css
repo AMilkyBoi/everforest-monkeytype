@@ -9,43 +9,50 @@
 ==/UserStyle== */
 
 @-moz-document domain("monkeytype.com") {
-
-    /* force font on logo */
+    
+    /* force font on logo
     *:not(i) {
         font-family: var(--font) !important;
     }
+    */
 
-    /* hide bottom */
+    /* hide bottom
     #bottom {
         display: none;
     }
+    */
 
     /* center menu */
     #top {
         grid-template-columns: 1fr auto 1fr;
     }
 
-    /* increase menu gap */
+    /* increase menu gap
     #menu {
         gap: 1rem;
     }
+    */
 
-    /* hide account name */
+    /* hide account name
     .icon-button .text {
         display: none;
     }
+    */
 
-    /* typing test margins */
+    /* typing test margins
     #middle {
         margin-left: 10%;
         margin-right: 10%;
     }
+    */
 
-    /* change logo text */
+    /* change logo text
     #top .logo .text {
         visibility: hidden;
     }
-
+    */
+    
+    /*
     #top .logo .text .top:after {
         content: 'reject humanity';
         visibility: visible;
@@ -62,37 +69,45 @@
         position: relative;
         margin-top: -2rem;
     }
+    */
 
-    /* caret width */
+    /* caret width
     #caret.default {
         width: 1px;
     }
+    */
 
-    /* change live wpm and acc text size */
+    /* change live wpm and acc text size
     #liveWpm,
     #liveAcc {
         font-size: 7rem;
     }
+    */
 
-    /* letter fading */
+    /* letter fading
     #words letter.correct {
         animation: fadeOut 3s ease forwards;
     }
-
+    */
+    
+    /*
     @keyframes fadeOut {
         100% {
             opacity: 0;
         }
     }
+    */
 
-    /* text shadow */
+    /* text shadow
     body {
         text-shadow: 1px 1px 3px #00000050 !important;
     }
+    */
 
-    /* remove shadow when test starts */
+    /* remove shadow when test starts
     #top.focus #menu,
     #top.focus #menu .text-button {
         text-shadow: none;
     }
+    */
 }
