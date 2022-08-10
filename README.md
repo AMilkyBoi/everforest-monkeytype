@@ -21,7 +21,7 @@ NOTE FOR FIREFOX USERS: You need to enable backdrop-filter in the firefox config
 These are themes that change small parts of monkeytype and can be used together.
 
 ### Base  
-[Install](https://github.com/refact0r/monkeytype-themes/raw/main/base.user.css)
+[Install](https://github.com/AMilkyBoi/everforest-monkeytype/raw/main/base.user.css)
 
 Centers the top menu.
 
@@ -29,7 +29,7 @@ Centers the top menu.
 <br>
 
 ### Icons  
-[Install](https://github.com/refact0r/monkeytype-themes/raw/main/icons.user.css)
+[Install](https://github.com/AMilkyBoi/everforest-monkeytype/raw/main/icons.user.css)
 
 Replaces the default Font Awesome icons with Bootstrap icons. Also adds a few animations to the menu buttons and the buttons that show after completing a test.
 
@@ -37,7 +37,7 @@ Replaces the default Font Awesome icons with Bootstrap icons. Also adds a few an
 <br>
 
 ### Clean command line
-[Install](https://github.com/refact0r/monkeytype-themes/raw/main/cleancommandline.user.css)
+[Install](https://github.com/AMilkyBoi/everforest-monkeytype/raw/main/cleancommandline.user.css)
 
 Removes command line box background and adds a blur behind it for a cleaner look. Works best if you already have a background image.
 
@@ -49,9 +49,9 @@ Removes command line box background and adds a blur behind it for a cleaner look
 ## Style Theme
 
 ### Everforest
-[Install](https://github.com/refact0r/monkeytype-themes/raw/main/botanical.user.css)
+[Install](https://github.com/AMilkyBoi/everforest-monkeytype/raw/main/everforest.user.css)
 
-Everforst theme.
+Everforest theme.
 
 <img width=1000 src="https://user-images.githubusercontent.com/34758569/135358100-33efec78-d2c7-4872-8a4b-f4b383ff1ad0.png">
 <br>
