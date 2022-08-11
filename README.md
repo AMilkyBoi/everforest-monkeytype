@@ -25,7 +25,7 @@ These are themes that change small parts of monkeytype and can be used together.
 
 Centers the top menu.
 
-<img width=1000 src="https://user-images.githubusercontent.com/34758569/138975611-a8d12eee-b541-40fb-be95-53f6b8ef1c07.png">
+<img width=1000 src="https://github.com/AMilkyBoi/everforest-monkeytype/blob/main/images/centermenu.png">
 <br>
 
 ### Icons  
@@ -33,7 +33,7 @@ Centers the top menu.
 
 Replaces the default Font Awesome icons with Bootstrap icons. Also adds a few animations to the menu buttons and the buttons that show after completing a test.
 
-<img src="https://user-images.githubusercontent.com/34758569/138975699-d8cff2b9-0b1c-4a76-9413-81923d260d54.png">
+<img src="https://github.com/AMilkyBoi/everforest-monkeytype/blob/main/images/icons.png">
 <br>
 
 ### Clean command line
@@ -41,7 +41,7 @@ Replaces the default Font Awesome icons with Bootstrap icons. Also adds a few an
 
 Removes command line box background and adds a blur behind it for a cleaner look. Works best if you already have a background image.
 
-<img width=1000 src="https://user-images.githubusercontent.com/34758569/133005516-75e0de7d-b192-4548-84b3-f413c0d95851.png">
+<img width=1000 src="https://github.com/AMilkyBoi/everforest-monkeytype/blob/main/images/cmd.png">
 <br>
 
 <br>
@@ -53,5 +53,5 @@ Removes command line box background and adds a blur behind it for a cleaner look
 
 Everforest theme.
 
-<img width=1000 src="https://user-images.githubusercontent.com/34758569/135358100-33efec78-d2c7-4872-8a4b-f4b383ff1ad0.png">
+<img width=1000 src="https://github.com/AMilkyBoi/everforest-monkeytype/blob/main/images/theme.png">
 <br>
